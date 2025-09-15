@@ -27,8 +27,10 @@
 │ ├── login_locators.py
 │ ├── logout_locators.py
 │ └── registration_locators.py
+├── config.py # переменные URL
 ├── conftest.py # Фикстуры
 ├── requirements.txt # Зависимости проекта
+├── .gitignore
 └── README.md # Документация
 ```
 
